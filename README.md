@@ -79,6 +79,13 @@ Solidity를 사용한 스마트 컨트랙트 개발. 이더리움 블록체인�
 
 *Python 웹 스택, Android (Kotlin), Docker, CircleCI, ECS*
 
+### Riiid (2020.08 ~)
+
+#### 산타 토익
+AI 튜터가 학습을 도와주는 토익 학습 앱.
+
+*React, TypeScript
+
 오픈 소스
 -------
 
