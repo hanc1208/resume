@@ -33,7 +33,7 @@ Kotlin 언어에 관심이 있습니다.
 직무 경력
 -------
 
-### Spoqa (2015.09 -)
+### Spoqa (2015.09 ~)
 
 태블릿을 사용한 적립 및 고객 관리 솔루션 개발.
 
@@ -77,17 +77,43 @@ Solidity를 사용한 스마트 컨트랙트 개발. 이더리움 블록체인�
 
 *Python 웹 스택, Android (Kotlin), Docker, CircleCI, ECS*
 
+---
+
 ### Riiid (2020.08 ~)
+
+다양한 Test prep 학습을 도와주는 제품의 프론트엔드 개발.
 
 #### 산타 토익
 AI 튜터가 학습을 도와주는 토익 학습 앱.
 
 *React, TypeScript, Next.js*
 
+#### Riiid for GMAT
+AI 튜터가 학습을 도와주는 Kaplan GMAT 학습 앱.
+
+*React, TypeScript, Next.js, react-query, gRPC*
+
+#### AI Toeic, 뤼이드 튜터
+AI 튜터가 학습을 도와주는 토익 학습 앱. 이전 산타 토익 앱을 리뉴얼.
+학생이 문제를 풀 수 있는 핵심 컴포넌트를 대부분 개발.
+
+*React, TypeScript, Next.js, react-query, gRPC*
+
 #### 디자인 시스템
 뤼이드 디자인 시스템 전반 설계 및 라이브러리 작성.
 
 *React, TypeScript, Figma API, Design Token, Adobe DSP*
+
+---
+
+### Hops (2021.08 ~)
+
+누구나 데이터베이스를 쉽게 사용할 수 있도록 도와주는 Query.Delievery의 프론트엔드와 백엔드 개발.
+
+#### Query.Delivery
+프론트엔드 및 백엔드 개발.
+
+*Python 웹 스택, React, TypeScript, react-query*
 
 오픈 소스
 -------
