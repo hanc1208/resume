@@ -109,11 +109,18 @@ AI 튜터가 학습을 도와주는 토익 학습 앱. 이전 산타 토익 앱�
 ### Hops (2021.08 ~)
 
 누구나 데이터베이스를 쉽게 사용할 수 있도록 도와주는 Query.Delievery의 프론트엔드와 백엔드 개발.
+백오피스를 쉽게 만들 수 있도록 도와주는 홉스 (Hops) 제품의 프론트엔드와 백엔드 개발.
 
 #### Query.Delivery
 프론트엔드 및 백엔드 개발.
 
 *Python 웹 스택, React, TypeScript, react-query*
+
+#### Query.Delivery
+프론트엔드 및 백엔드 개발.
+선언적 UI 시스템, 상태 머신 등 개발.
+
+*Kotlin, Spring, React, TypeScript, Node.js*
 
 오픈 소스
 -------
