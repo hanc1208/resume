@@ -137,6 +137,10 @@ AI 튜터가 학습을 도와주는 토익 학습 앱. 이전 산타 토익 앱�
 
 *Python 웹 스택, React, TypeScript, RabbitMQ, Docker, ECS, Kubernetes, Ethereum, Solidity, web3.js*
 
+https://github.com/hanc1208/iu-exchange
+
+https://github.com/hanc1208/iu-exchange-frontend
+
 발표
 --
 
