@@ -1,10 +1,8 @@
 한창수
 ===
 
-Python + Flask + SQLAlchemy 기반 백엔드 프로그래밍과
+Kotlin + Spring 기반 백엔드 프로그래밍과
 React + TypeScript 기반 프론트엔드 프로그래밍을 즐겨하는 풀스택 프로그래머 입니다.
-
-Kotlin 언어에 관심이 있습니다.
 
 단위 테스트 커버리지를 매우 높은 수준으로 유지하려고 노력 합니다. 테스트하기 좋은 코드가 실제로 좋은 코드라는 생각으로 코딩 합니다.
 
@@ -23,10 +21,10 @@ Kotlin 언어에 관심이 있습니다.
 
 | 카테고리                | 세부사항                                                 |
 |-------------------------|----------------------------------------------------------|
-| 언어                    | Python, TypeScript, Android (Kotlin)                     |
+| 언어                    | Kotlin, TypeScript, Python                      |
 | 데이터베이스, 메시지 큐 | PostgreSQL, Redis, RabbitMQ                              |
-| 라이브러리              | Flask, React, SQLAlchemy, Celery                         |
-| 도구                    | Git, PyCharm, Vim, Atlassian JIRA & Confluence, Selenium |
+| 라이브러리              | Spring, React, Flask, SQLAlchemy, Celery                   |
+| 도구                    | Git, IntelliJ IDEA, Vim, Atlassian JIRA & Confluence, Selenium |
 | 인프라                  | Docker, Sentry, CircleCI                                 |
 | AWS                     | EC2, ELB (ALB), ECS, RDS, CDK, CloudWatch, VPC           |
 | 블록체인                | Ethereum, Solidity, web3.js                              |
